@@ -12,9 +12,9 @@ Lookups** from the dynaTrace Client, **Automatic Agent injection** when launchin
 | Author | dynaTrace Software
 | Supported dynaTrace Versions | >= 5.5
 | License | [dynaTrace BSD](dynaTraceBSD.txt)
-| Support | [Supported](https://community.compuwareapm.com/community.compuwareapm.com/community/display/DL/Support+Levels)
+| Support | [Supported](https://community.compuwareapm.com/community/display/DL/Support+Levels)
 | Known Problems | [KB-424 Visual Studio Plugin will not work](https://community.compuwareapm.com/community/display/KB/KB-424+Visual+Studio+Plugin+will+not+work)  
-| | [KB-462 Visual Studio shows error number 80131515 on startup](https://community.compuwareapm.com/community.dynatrace.com/community/display/KB/KB-462+Visual+Studio+shows+error+number+80131515+on+startup+when+Add-in+is+activated)
+| | [KB-462 Visual Studio shows error number 80131515 on startup](https://community.compuwareapm.com//community/display/KB/KB-462+Visual+Studio+shows+error+number+80131515+on+startup+when+Add-in+is+activated)
 | Release History | 2010-04-14 Initial Release
 | | 2010-11-02 Release for dynaTrace 3.5
 | Download | [dynaTrace 6.0 Plugin for Visual Studio 2005/2008](CodeLinkVS2005.dt60.zip)
@@ -22,7 +22,7 @@ Lookups** from the dynaTrace Client, **Automatic Agent injection** when launchin
 
 ## Installation
 
-All you need to do is to extract the files of the [dynaTrace 3.5 Plugin for Visual Studio 2005/2008](attachments_47317091_2_CodeLinkVS2005.zip) to your My Documents\Visual Studio 2005/2008\Addins
+All you need to do is to extract the files of the [dynaTrace 3.5 Plugin for Visual Studio 2005/2008](CodeLinkVS2005.zip) to your My Documents\Visual Studio 2005/2008\Addins
 directory. If the Addins directory does not exist create it. **Now start Visual Studio as Administrator** \- this is required as the dynaTrace plugin requires access to the registry
 
 The dynaTrace Visual Studio 2005/2008 Plugin can be enabled through Tools->Add-In Manager in Visual Studio. Once the Add-In is loaded you will see two new menu entries in the Tools menu. One is to
