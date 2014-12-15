@@ -13,8 +13,7 @@ Lookups** from the dynaTrace Client, **Automatic Agent injection** when launchin
 | Supported dynaTrace Versions | >= 5.5
 | License | [dynaTrace BSD](dynaTraceBSD.txt)
 | Support | [Supported](https://community.compuwareapm.com/community/display/DL/Support+Levels)
-| Known Problems | [KB-424 Visual Studio Plugin will not work](https://community.compuwareapm.com/community/display/KB/KB-424+Visual+Studio+Plugin+will+not+work)  
-| | [KB-462 Visual Studio shows error number 80131515 on startup](https://community.compuwareapm.com//community/display/KB/KB-462+Visual+Studio+shows+error+number+80131515+on+startup+when+Add-in+is+activated)
+| Known Problems | [KB-462 Visual Studio shows error number 80131515 on startup](https://community.compuwareapm.com/community/display/KB/KB-462+Visual+Studio+shows+error+number+80131515+on+startup+when+Add-in+is+activated?_ga=1.166030206.1100885444.1417534464)
 | Release History | 2010-04-14 Initial Release
 | | 2010-11-02 Release for dynaTrace 3.5
 | Download | [dynaTrace 6.0 Plugin for Visual Studio 2005/2008](CodeLinkVS2005.dt60.zip)
